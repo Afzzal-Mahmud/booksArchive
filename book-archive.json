@@ -1,0 +1,349 @@
+[
+    {
+      "title": "Book 1",
+      "author": [
+        "Author 1",
+        "Author 2"
+      ],
+      "genre": "Mystery",
+      "publicationYear": 2020,
+      "publisher": {
+        "name": "Publisher A",
+        "location": "City A"
+      },
+      "reviews": [
+        {
+          "user": "User 1",
+          "comment": "Great book!"
+        },
+        {
+          "user": "User 2",
+          "comment": "Interesting plot"
+        }
+      ],
+      "rating": 4.5,
+      "price": "90"
+    },
+    {
+      "title": "Book 2",
+      "author": [
+        "Author 3"
+      ],
+      "genre": "Sci-Fi",
+      "publicationYear": 2018,
+      "publisher": {
+        "name": "Roli Books",
+        "location": "City B"
+      },
+      "reviews": [
+        {
+          "user": "User 3",
+          "comment": "Mind-blowing"
+        },
+        {
+          "user": "User 4",
+          "comment": "Couldn't put it down"
+        }
+      ],
+      "rating": 4.8,
+      "price": "120"
+    },
+    {
+      "title": "Book 3",
+      "author": [
+        "Author 4"
+      ],
+      "genre": "Fantasy",
+      "publicationYear": 2022,
+      "publisher": {
+        "name": "Publisher C",
+        "location": "City C"
+      },
+      "reviews": [
+        {
+          "user": "User 5",
+          "comment": "Captivating world-building"
+        },
+        {
+          "user": "User 6",
+          "comment": "A must-read for fantasy lovers"
+        }
+      ],
+      "rating": 4.2,
+      "price": 80
+    },
+    {
+      "title": "Book 4",
+      "author": [
+        "Author 5",
+        "Author 6"
+      ],
+      "genre": "Thriller",
+      "publicationYear": 2017,
+      "publisher": {
+        "name": "Publisher D",
+        "location": "City D"
+      },
+      "reviews": [
+        {
+          "user": "User 7",
+          "comment": "Kept me on the edge of my seat"
+        },
+        {
+          "user": "User 8",
+          "comment": "Twists and turns at every chapter"
+        }
+      ],
+      "rating": 4.6,
+      "price": "95"
+    },
+    {
+      "title": "Book 5",
+      "author": [
+        "Author 7"
+      ],
+      "genre": "Historical Fiction",
+      "publicationYear": 2021,
+      "publisher": {
+        "name": "Publisher E",
+        "location": "City E"
+      },
+      "reviews": [
+        {
+          "user": "User 9",
+          "comment": "Richly detailed and immersive"
+        },
+        {
+          "user": "User 10",
+          "comment": "Transported me to a different era"
+        }
+      ],
+      "rating": 3.3,
+      "price": 110
+    },
+    {
+      "title": "Book 6",
+      "author": [
+        "Author 8"
+      ],
+      "genre": "Romance",
+      "publicationYear": 2019,
+      "publisher": {
+        "name": "Publisher F",
+        "location": "City F"
+      },
+      "reviews": [
+        {
+          "user": "User 11",
+          "comment": "Heartwarming love story"
+        },
+        {
+          "user": "User 12",
+          "comment": "Couldn't put it down"
+        }
+      ],
+      "rating": 4.1,
+      "price": "85"
+    },
+    {
+      "title": "Book 7",
+      "author": [
+        "Author 9",
+        "Author 10"
+      ],
+      "genre": "Biography",
+      "publicationYear": 2023,
+      "publisher": {
+        "name": "Publisher G",
+        "location": "City G"
+      },
+      "reviews": [
+        {
+          "user": "User 13",
+          "comment": "Inspiring life journey"
+        },
+        {
+          "user": "User 14",
+          "comment": "Well-researched and engaging"
+        }
+      ],
+      "rating": 4.7,
+      "price": 105
+    },
+    {
+      "title": "Book 8",
+      "author": [
+        "Author 11"
+      ],
+      "genre": "Horror",
+      "publicationYear": 2022,
+      "publisher": {
+        "name": "Publisher H",
+        "location": "City H"
+      },
+      "reviews": [
+        {
+          "user": "User 15",
+          "comment": "Chilling and suspenseful"
+        },
+        {
+          "user": "User 16",
+          "comment": "Kept me up at night"
+        }
+      ],
+      "rating": 4.4,
+      "price": "95"
+    },
+    {
+      "title": "Book 9",
+      "author": [
+        "Author 12",
+        "Author 13"
+      ],
+      "genre": "Science",
+      "publicationYear": 2020,
+      "publisher": {
+        "name": "Publisher I",
+        "location": "City I"
+      },
+      "reviews": [
+        {
+          "user": "User 17",
+          "comment": "Fascinating exploration of scientific concepts"
+        },
+        {
+          "user": "User 18",
+          "comment": "Accessible and informative"
+        }
+      ],
+      "rating": 4.9,
+      "price": "115"
+    },
+    {
+      "title": "Book 10",
+      "author": [
+        "Author 14"
+      ],
+      "genre": "Drama",
+      "publicationYear": 2021,
+      "publisher": {
+        "name": "Publisher J",
+        "location": "City J"
+      },
+      "reviews": [
+        {
+          "user": "User 19",
+          "comment": "Emotionally gripping story"
+        },
+        {
+          "user": "User 20",
+          "comment": "Powerful and thought-provoking"
+        }
+      ],
+      "rating": 3.9,
+      "price": 75
+    },{
+        "title": "The Great Gatsby",
+        "author": ["F. Scott Fitzgerald"],
+        "genre": "Literary Fiction",
+        "publicationYear": 1925,
+        "publisher": { "name": "Scribner", "location": "New York" },
+        "reviews": [
+          { "user": "BookReviewer123", "comment": "A classic tale of love and longing" },
+          { "user": "ReadingEnthusiast", "comment": "Beautifully written, a must-read" }
+        ],
+        "rating": 4.2,
+        "price": 15.99
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": ["Harper Lee"],
+        "genre": "Classic Literature",
+        "publicationYear": 1960,
+        "publisher": { "name": "J. B. Lippincott & Co.", "location": "Philadelphia" },
+        "reviews": [
+          { "user": "Bookworm27", "comment": "Powerful and thought-provoking" },
+          { "user": "LiteratureLover", "comment": "A timeless masterpiece" }
+        ],
+        "rating": 4.8,
+        "price": 12.99
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": ["J.K. Rowling"],
+        "genre": "Fantasy",
+        "publicationYear": 1997,
+        "publisher": { "name": "Bloomsbury Publishing", "location": "London" },
+        "reviews": [
+          { "user": "MagicSeeker", "comment": "An enchanting start to a magical series" },
+          { "user": "PotterFanatic", "comment": "Captivating and full of wonder" }
+        ],
+        "rating": 4.9,
+        "price": 19.99
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": ["J.D. Salinger"],
+        "genre": "Coming-of-Age Fiction",
+        "publicationYear": 1951,
+        "publisher": { "name": "Little, Brown and Company", "location": "Boston" },
+        "reviews": [
+          { "user": "LiteraryExplorer", "comment": "A timeless classic with a relatable protagonist" },
+          { "user": "BookAddict123", "comment": "Raw and thought-provoking" }
+        ],
+        "rating": 4.3,
+        "price": 14.99
+      },
+      {
+        "title": "Book 5",
+        "author": ["Author 5"],
+        "genre": "Fiction",
+        "publicationYear": 2010,
+        "publisher": { "name": "Roli Books", "location": "India" },
+        "reviews": [
+          { "user": "ReaderX", "comment": "An intriguing and captivating read" },
+          { "user": "BookLover123", "comment": "Unputdownable, a must-read" }
+        ],
+        "rating": 4.5,
+        "price": 17.99
+      },
+      {
+        "title": "Book 6",
+        "author": ["Author 6"],
+        "genre": "Thriller",
+        "publicationYear": 2015,
+        "publisher": { "name": "Roli Books", "location": "India" },
+        "reviews": [
+          { "user": "MysteryReader", "comment": "Keeps you on the edge of your seat" },
+          { "user": "SuspenseFan", "comment": "A gripping and well-paced thriller" }
+        ],
+        "rating": 4.7,
+        "price": 21.99
+      },
+      {
+        "title": "Book 7",
+        "author": ["Author 7"],
+        "genre": "Fantasy",
+        "publicationYear": 2022,
+        "publisher": { "name": "Roli Books", "location": "India" },
+        "reviews": [
+          { "user": "FantasyFanatic", "comment": "A magical and immersive world" },
+          { "user": "Bookworm99", "comment": "Fantasy at its finest" }
+        ],
+        "rating": 4.6,
+        "price": 18.99
+      },
+      {
+        "title": "Book 8",
+        "author": ["Author 8"],
+        "genre": "Fantasy",
+        "publicationYear": 2018,
+        "publisher": { "name": "Roli Books", "location": "India" },
+        "reviews": [
+          { "user": "Dreamer23", "comment": "A captivating and imaginative journey" },
+          { "user": "MagicBooklover", "comment": "Fantasy lovers will be enchanted" }
+        ],
+        "rating": 4.4,
+        "price": 16.99
+      }
+  ]
